@@ -1,6 +1,6 @@
 # Pacman 
 
-- (DEMO)：https://passer-by.com/pacman/
+- (DEMO)：https://pacman-vean.vercel.app/
 
-[passer-by.com](https://passer-by.com/)
+[vean.my.id](https://vean.my.id/)
 
